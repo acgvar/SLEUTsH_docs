@@ -14,7 +14,7 @@ Welcome to SLEUTsH: Railway-induced urban growth for SLEUTH's documentation!
 Introduction
 -------------
 
-The `SLEUTH <http://www.ncgia.ucsb.edu/projects/gig/About/bkOverview.html>`_ model, 
+The `SLEUTH <http://www.ncgia.ucsb.edu/projects/gig/About/bkOverview.html>`_ model 
 is a cellular-automata model widely used to model and predict changes in land cover and urban cover.
 The model was developed (`Clarke et al., 1997 <http://www.ncgia.ucsb.edu/projects/gig/Pub/SLEUTHPapers_Nov24/Clarke_Hoppen_Gaydos_1996.pdf>`_) by Dr. Keith C. Clarke, who continues advancing the model at the University of California, Santa Barbara, Department of Geography. 
 Dr. Clarke's group has developed its latest version of SLEUTH that can speed up
